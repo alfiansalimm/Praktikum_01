@@ -15,7 +15,7 @@ import java.sql.SQLException;
  * @author PC 16
  */
 public class Latihan_01 {
-    static final String db_unidha3 = "jdbc:mysql://localhost:3306/db_prakoop3_01";
+    static final String db_unidha3 = "jdbc:mysql://localhost:3306/latihan_01";
     
     private static Connection Test_Konek;
     public static Connection DB_Konek()throws SQLException, ClassNotFoundException {
